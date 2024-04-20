@@ -1,0 +1,17 @@
+#stoplight {
+    width: 150px;
+    height: 450px;
+    background-size: contain;
+}
+
+.red {
+    background-image: url('./red.jpg');
+}
+
+.yellow {
+    background-image: url('./yellow.jpg');
+}
+
+.green {
+    background-image: url('./green.jpg');
+}
